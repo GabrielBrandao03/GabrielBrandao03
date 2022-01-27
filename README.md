@@ -1,5 +1,7 @@
 
-# Hello, my name is Teruya! Good to see you here! 
+# Hello, my name is Gabriel Brandão!
+ # Welcome to my work
+ # Welcome to my life
 
 <div align="center">
   <a href="https://github.com/GabrielBrandao03">
