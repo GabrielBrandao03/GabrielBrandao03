@@ -1,8 +1,5 @@
 
-# Hello, my name is Gabriel Brandão!
- # Welcome to my work
- # Welcome to my life
-
+# Hello, my name is Gabriel Brandão! Welcome to my work
 <div align="center">
   <a href="https://github.com/GabrielBrandao03">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBrandao03&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
