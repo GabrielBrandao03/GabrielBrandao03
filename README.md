@@ -1,4 +1,5 @@
-### Olá! Eu sou o Gabriel Brandão 👋
+### I'm a Junior developer and
+### Student of JAVA | C# | Python | Node.js | Angular | React 👋
 
 - 📚 Estudante do 3 período de Ciências da Computação. 
 - 🥇 **Desenvolvedor** da empresa 4World Consultoria.
