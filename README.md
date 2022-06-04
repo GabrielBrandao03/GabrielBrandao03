@@ -1,5 +1,5 @@
 # Hi there 👋, My name is Gabriel
-### I'm a Junior developer and
+## I'm a Junior developer and
 ### Student of JAVA | C# | Python | Node.js | Angular | React 👋
 
 - 📚 Estudante do 3 período de Ciências da Computação. 
