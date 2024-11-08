@@ -21,14 +21,15 @@
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
-### My GitHub Stats:
+# 📊 GitHub Stats:
+<div style="display: flex; flex-direction: column; justify-content: space-bethen; align-items: center;">
 
-<div align="center">
-  <a href="https://github.com/gabrielsbrandao">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielsbrandao&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsbrandao&layout=compact&langs_count=7&theme=tokyonight&hide=html"/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielsbrandao&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsbrandao&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <!-- GitHub Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsbrandao&theme=dark&hide_border=false" alt="GitHub Streak"/>
 
-  </a>
 </div>
 
 ### Connect with me:
