@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/gabrielsbrandao">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsbrandao&layout=compact&langs_count=1&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielsbrandao&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielsbrandao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </div>
