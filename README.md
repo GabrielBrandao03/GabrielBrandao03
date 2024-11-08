@@ -1,9 +1,9 @@
 # Hi there 👋, My name is Gabriel
-## I'm a Junior developer and
-### Student of JAVA | C# | Python | Node.js | Angular | React 👋
+## I'm a pleno developer in C# and
+### student of JAVA | Python | Node.js | Angular | React 👋
 
-- 📚 Estudante do 3 período de Ciências da Computação. 
-- 🥇 **Desenvolvedor** da empresa 4World Consultoria.
+- 📚 Estudante no ultimo semestre de Ciências da Computação. 
+- 🥇 **Desenvolvedor** PAYNET CAPTURA DE TRANSAÇÕES LTDA
 - 👨‍💻 Estudando Front-End e Back-End **Full Stack**.
 - 📫 Contate-me no email: gabriel.santos.brandao03@gmail.com
 - ⚡ Apaixonado por códigos e games.
@@ -21,7 +21,8 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Gabriel-TypeScript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Gabriel-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
 </div>
   
   ##
